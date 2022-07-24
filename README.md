@@ -41,4 +41,4 @@ UNet:
 ![unet](https://github.com/MarwanMohamed95/Image-Semantic-Segmentation/blob/main/plot_UNet.png?raw=true)
 
 
-## **At the End We can concolude that UNet has better results than FCN-8 due to Skip connections and we used more blocks in the UNet model**
+## **At the End We can concolude that UNet has better results than FCN-8 due to Skip connections and we used more decoder blocks in the UNet model**
